@@ -1,3 +1,13 @@
 {
-  "contest_name": "deadline"
+  "contest": {
+    "name": "xxx",
+    "openM": "xxx",
+    "openD": "xxx",
+    "openY": "xxx",
+    "closeM": "xxx",
+    "closeD": "xxx",
+    "closeY": "xxx",
+    "link": "xxx",
+    "recur": "xxx"
+  }
 }
